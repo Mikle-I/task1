@@ -1,7 +1,7 @@
 
 <div class="news-list">
 
-<table width="100%" cellspacing="0" cellpadding="5">
+
 
 
 <?foreach($arResult["ITEMS"] as $arItem):?>
@@ -20,6 +20,6 @@
 
 <?endforeach;?>
 
-</table>
+
 
 </div>
